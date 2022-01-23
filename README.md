@@ -9,6 +9,8 @@
 </p>
 
 
+English | [中文](https://github.com/holashuo/AvatarMyself/blob/master/README.zh-CN.md)
+
 
 
 > Beautifully show on PC, pad  and mobile
